@@ -1,0 +1,2 @@
+# morozasylum
+Run an asylum
